@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <Heading text={'We Are #Digital# Marketing Agency'}className={'text-2xl text-purple-700 font-bold'}/>
+    <Heading text={'We Are #Digital# Marketing Agency suktara'}className={'text-2xl text-purple-700 font-bold'}/>
     
     </>
   )
